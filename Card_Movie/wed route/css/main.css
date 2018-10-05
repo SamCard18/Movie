@@ -1,0 +1,76 @@
+
+html, body {
+    background-color: rgb( 255, 217, 48);
+   
+    /* background-image: url("../img/deadpool-assets/background.png");
+    background-repeat: no-repeat;
+    background-color: rgb(73,81,128);
+    background-position: ; */
+
+    /* background: url("../img/deadpool-assets/background.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; */
+    margin:0;
+}
+
+
+
+.content-wrapper {
+    position:relative;
+}
+
+.content-inner-one{
+    height: 100vh;
+    background: url("../img/deadpool-assets/background.jpg") no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position:inherit;
+  
+}
+
+#hero-shot, .logo {
+    display: block;
+    margin:0 auto;
+}
+
+.content-inner-two {
+    height: 100vh;
+    background: url("../img/deadpool-assets/background2.jpg") no-repeat center center ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+/* img {
+    position: relative;
+    top: 165px;
+    left: 630px;
+} */
+
+.poster{
+    position: relative;
+
+}
+
+h1,h2,p {
+
+font-family: 'Josefin Sans', sans-serif;
+}
+
+#content-wrapper {
+    width: 700px;
+    margin: 0 auto;
+}
+
+h1,h2,p {
+    /* position: relative;
+    left: 900px;
+    bottom: 125px;
+} */
